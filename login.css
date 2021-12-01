@@ -1,0 +1,22 @@
+body
+{
+	background-color: #191970;
+}
+h2
+{
+	color: white;
+}
+label
+{
+	color: white;
+}
+input
+{
+	background-color: black;
+}
+button
+{
+	background-color: blue;
+	width: 175px;
+	border-radius: 5px;
+}

@@ -1,0 +1,43 @@
+body
+{
+	background-image: url('yMdSUsW.jpg');
+	background-repeat: no-repeat;
+	background-size: cover;
+}
+#div1
+{
+	color: white;
+	background-color:#00008B;
+	height: 60px;
+	width:810px;
+
+	}
+#tr1
+{
+	background-color: brown;
+}
+table
+{
+	width: 60%;
+}
+table, th, tr 
+{
+  text-align: center;
+  border: 1px solid black;
+  border-collapse: collapse;
+}
+th
+{
+  background-color: brown;
+  color: white; 
+  height: 30px;
+}
+tr
+{
+	height: 30px;
+	background-color: white;
+}
+tr:nth-child(odd)
+{
+	background-color: #808080;
+}

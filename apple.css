@@ -1,0 +1,14 @@
+.a1
+{
+	height: 350px;
+	width: 390px;
+	background-image: url("apple.jpg");
+	background-size: 350px;
+}
+.a1:hover
+{
+	height: 320px;
+	width: 350px;
+	background-image: url("orange.jpg");
+	background-size: 350px;
+}
